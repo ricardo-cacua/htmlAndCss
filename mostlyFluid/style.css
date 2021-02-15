@@ -16,23 +16,23 @@ html{
   height: 150px;
 }
 .c1{
-  background-color: #003476;
+  background-color: #0C5BED;
 }
 .c2{
-  background-color: #0062d2;
+  background-color: #0C9CF7;
 }
 .c3{
-  background-color: #b4d2f7;
+  background-color: #00C2E0;
 }
 .c4{
-  background-color: #d5dfef;
+  background-color: #00F7D7;
 }
 .c5{
-  background-color: #dfe1e5;
+  background-color: #0CED91;
 }
 
 @media (min-width: 600px){
-  .c2, .c3, .c4{
+  .c2, .c3{
     width: 50%;
   }
 }
